@@ -8,19 +8,19 @@
 
 ## 1. Installation <a name="installation"></a>
 Needed libraries:
-  NumPy
-  Pandas
-  matplotlib
-  scikit-learn
-  keras
-  OpenCV
-  Matplotlib
-  Scipy
-  Tqdm
-  Pillow
-  Tensorflow
-  Skimage
-  IPython Kernel
+- NumPy
+- Pandas
+- matplotlib
+- scikit-learn
+- keras
+- OpenCV
+- Matplotlib
+- Scipy
+- Tqdm
+- Pillow
+- Tensorflow
+- Skimage
+- IPython Kernel
 
 
 ## 2. Project Motivation <a name="motivation"></a>
