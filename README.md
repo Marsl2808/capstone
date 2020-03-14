@@ -30,6 +30,5 @@ The Project is part of the UDACITY Datascientist Nanodgree program.
 - dog_app.ipynb containing the developed code. 
 
 ## 4. Results <a name="results"></a>
-Medium post under: [link](https://medium.com/@marcel_79290/which-direction-should-your-developer-journey-go-5113c65366b0)
-
+Medium post under: [link](https://medium.com/@marcel_79290/who-let-the-dogs-out-bd4f106c22b)
 
